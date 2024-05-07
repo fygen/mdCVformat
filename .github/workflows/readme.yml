@@ -13,7 +13,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 16.x
+          node-version: 20.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - name: Adding README - Chinese Simplified
         uses: dephraiim/translate-readme@main
@@ -23,7 +23,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: zh-TW
-      - name: Adding README - Hindi
+      - name: Adding README - Hindi"
         uses: dephraiim/translate-readme@main
         with:
           LANG: hi
@@ -39,3 +39,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: tr
+      - name: Adding README - Deutsch
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: de

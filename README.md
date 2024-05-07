@@ -135,7 +135,6 @@
 
      * Python:
          * Python
-         * Django
 
     * Mobile Development:
         * React Native: Android & IOS
