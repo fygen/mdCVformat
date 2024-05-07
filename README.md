@@ -1,4 +1,13 @@
 #
+# Available Languages
+[![TR](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/fygen/mdCVformat/blob/master/README.TR.md)
+[![DE](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/README.DE.md)
+[![EN](https://img.shields.io/badge/lang-en-orange.svg)](https://github.com/fygen/mdCVformat/blob/master/README.md)
+[![FR](https://img.shields.io/badge/lang-ft-blue.svg)](https://github.com/fygen/mdCVformat/blob/master/README.FT.md)
+[![AR](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/fygen/mdCVformat/blob/master/README.AR.md)
+[![zn-CN](https://img.shields.io/badge/lang-cn-black.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zn-CN.md)
+[![zn-TW](https://img.shields.io/badge/lang-tw-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zn-TW.md)
+#
 # Personal Information:
 
 * Name and Surname: Fatih YEGEN

@@ -26,20 +26,20 @@ jobs:
       - name: Adding README - Hindi"
         uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: hi
+          LANG: HI
       - name: Adding README - Arabic
         uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: ar
+          LANG: AR
       - name: Adding README - French
         uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: fr
+          LANG: FR
       - name: Adding README - Turkish
         uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: tr
+          LANG: TR
       - name: Adding README - Deutsch
         uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: de
+          LANG: DE
