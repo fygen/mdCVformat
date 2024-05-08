@@ -8,6 +8,10 @@
 
 # Kişisel bilgi:
 
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
+
 -   Adı Soyadı: Fatih YEGEN
 -   Doğum Yılı: 1996
 -   Cinsiyet erkek
@@ -37,7 +41,9 @@
 
 -   Erasmus 2 Dönemi
 -   Genel not ortalaması: 70
--   ALANLAR: Elektrik Mühendisliği Fakültesi / Elektronik ve Bilgi Teknolojileri Fakültesi
+-   Alanlar:
+    -   Elektrik Mühendisliği Fakültesi
+    -   Elektronik ve Bilgi Teknolojileri Fakültesi
 
 # 
 
@@ -61,14 +67,14 @@
         -   MVC Razor sayfaları, önyükleme (SURATKARGO.COM)
             -   Sayfa: SEN Points (Trader Cargo Franchise Sayfası),
             -   Sayfa: Yöneticileri görüntülemek için sayfa eklendi.
-        -   ONION mimarisi üzerine kurulu N Mimarisi Etki Alanına Dayalı Tasarım,(SEN GELİŞTİRME)
+        -   ONION mimarisi üzerine kurulu N Mimarisi Etki Alanı Odaklı Tasarım,(SEN GELİŞTİRME)
         -   Gelecekteki yeni programlar için Blazor WebAssembly sayfalarını test etmek ve oluşturmak.
 
     -   JavaScript
         -   React ABP(React .Net BoilerPlate)
             -   Sayfa: İK'nın oluşturulması ve tasarımı, Promosyon Hiyerarşisi ile ilgili sayfalar.
                 -   Entity Framework DDD mimarisinde Ön Uç kodlarını basitleştirme ve arka uç bileşenleri oluşturma.
-        -   Yerel Tepki
+        -   Yerel Tepki Ver
             -   Barkod Tarama Kitaplıkları ve Datamatrix ve eski tip barkodların taranması için sayfa eklenmesi.
         -   Sonrakijs
             -   Barkod tasarımının başarısız olduğunu görmek için test amacıyla farklı json veri kümeleri için eplprinter web sitesi istemek üzere EPL (barkod-HTML) görüntüleme sayfası için bir sayfa oluşturmak.
@@ -122,7 +128,7 @@
 
     -   JavaScript
         -   Tepki
-        -   Yerel Tepki
+        -   Yerel Tepki Ver
         -   Next.js
 
     -   Güç kalkanı
@@ -130,7 +136,7 @@
     -   WSL (Ücretsiz, Kali)
 
     -   Web Geliştirme:
-        -   HTML
+        -   HTML'
         -   CSS
         -   JavaScript
         -   Tepki
@@ -179,27 +185,25 @@
     -   Azure Veri Stüdyosu
 
 -   Test ve Hata Ayıklama Teknikleri:
-    -   Birim testi
-    -   Entegrasyon testi
-    -   Gerileme testi
+    -   Pentest
     -   Verim
 
-Benim Github'a.<https://github.com/fygen>İle
+Benim Github'a.<https://github.com/fygen>
 
 # Referanslar
 
--   Ona Optimizasyon Teknikleri dersinde yaptığım yarı denetimli makine öğrenimi projesini sor[Prof. Dr. Serdar Iplikçi at Pamukkale University on Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+-   Optimizasyon Teknikleri bölümünde yaptığım yarı denetimli makine öğrenimi projesini sorun[Prof. Dr. Serdar Iplikçi at Pamukkale University on Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 -   Çalışmalarımız hakkında Daire Başkanlığına e-posta gönderiniz.[Prof. Dr. Abdullah Tahsin Tola at PAU](mailto:attola@pau.edu.tr)
 
 -   [Marmara Üniversitesi için yapılan proje](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
--   2 yıllık React Şablon Web Sitesi Temel bağımlılıklardan oluşturuldu:<https://fygen.github.io/>
-    -   Kaynak kodları:<https://github.com/fygen/theCVproject>
+-   2 yaşındaki React CV Şablonu Web Sitesi Temel bağımlılıklardan oluşturulmuştur:<https://fygen.github.io/>
+    -   Kaynak kodları şurada:<https://github.com/fygen/theCVproject>
 
 -   Yukarıda çalıştığım şirketler.
 
--   Ve ben, her türlü bilgime meydan oku; istediğin zaman.
+-   Bana meydan oku; herhangi bir bilgi, her zaman.
 
 # Sertifikalar
 
