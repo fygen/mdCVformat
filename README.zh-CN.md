@@ -8,6 +8,10 @@
 
 # 个人信息：
 
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
+
 -   姓名：法提赫·叶根
 -   出生年份：1996年
 -   性别 男
@@ -37,7 +41,9 @@
 
 -   伊拉斯谟 2 学期
 -   平均绩点：70
--   领域： 电气工程学院 / 电子与信息技术学院
+-   领域：
+    -   电气工程学院
+    -   电子与信息技术学院
 
 # 
 
@@ -179,27 +185,25 @@
     -   Azure 数据工作室
 
 -   测试和调试技术：
-    -   单元测试
-    -   集成测试
-    -   回归测试
+    -   渗透测试
     -   表现
 
-到我的 Github。[HTTPS://GitHub.com/非要跟](https://github.com/fygen)到
+到我的 Github。[HTTPS://GitHub.com/非要跟](https://github.com/fygen)
 
 # 参考
 
--   向他询问我在 Optimization Techniques 中所做的半监督机器学习项目[教授。博士。 Linkedin 上棉花堡大学的 Serdar Iplikçi。](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+-   询问我在优化技术中所做的半监督机器学习项目[教授。博士。 Linkedin 上棉花堡大学的 Serdar Iplikçi。](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 -   关于我们的研究，请发送邮件至部门主管。[教授。博士。阿卜杜拉·塔辛·托拉 (Abdullah Tahsin Tola) 在 PAU](mailto:attola@pau.edu.tr)
 
 -   [为马尔马拉大学制作的项目](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
--   2 年历史的 React 模板网站从底层依赖项创建：[HTTPS://非要跟.GitHub.IO/](https://fygen.github.io/)
+-   2 年历史的 React CV 模板网站从头开始创建依赖项：[HTTPS://非要跟.GitHub.IO/](https://fygen.github.io/)
     -   源代码位于：[HTTPS://GitHub.com/非要跟/the CV project](https://github.com/fygen/theCVproject)
 
 -   我曾在上述任何公司工作过。
 
--   而我，挑战我的任何知识；任何时候。
+-   挑战我的；任何知识，任何时间。
 
 # 证书
 
