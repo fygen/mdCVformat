@@ -8,6 +8,10 @@
 
 # 個人資訊：
 
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
+
 -   姓名：法提赫·葉根
 -   出生年份：1996年
 -   性別 男
@@ -37,7 +41,9 @@
 
 -   伊拉斯謨 2 學期
 -   平均績點：70
--   領域： 電機工程學院 / 電子與資訊科技學院
+-   領域：
+    -   電機工程學院
+    -   電子與資訊科技學院
 
 # 
 
@@ -179,27 +185,25 @@
     -   Azure 資料工作室
 
 -   測試和調試技術：
-    -   單元測試
-    -   整合測試
-    -   回歸測試
+    -   滲透測試
     -   表現
 
-到我的 Github。<https://github.com/fygen>到
+到我的 Github。<https://github.com/fygen>
 
 # 參考
 
--   向他詢問我在 Optimization Techniques 中所做的半監督機器學習項目[教授。博士。 Linkedin 上棉花堡大學的 Serdar Iplikçi。](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+-   詢問我在優化技術中所做的半監督機器學習項目[教授。博士。 Linkedin 上棉花堡大學的 Serdar Iplikçi。](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 -   關於我們的研究，請發送郵件至部門主管。[教授。博士。阿卜杜拉·塔辛·托拉 (Abdullah Tahsin Tola) 在 PAU](mailto:attola@pau.edu.tr)
 
 -   [為馬爾馬拉大學製作的項目](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
--   2 年歷史的 React 模板網站從底層依賴項創建：<https://fygen.github.io/>
+-   2 年歷史的 React CV 範本網站從頭開始建立依賴項：<https://fygen.github.io/>
     -   原始碼位於：<https://github.com/fygen/theCVproject>
 
 -   我曾在上述任何公司工作過。
 
--   而我，挑戰我的任何知識；任何時候。
+-   挑戰我的；任何知識，任何時間。
 
 # 證書
 
