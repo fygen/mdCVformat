@@ -8,6 +8,10 @@
 
 # Informations personnelles:
 
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
+
 -   Nom et prénom : Fatih YEGEN
 -   Année de naissance : 1996
 -   Genre masculin
@@ -33,11 +37,13 @@
 -   Domaine : Faculté de génie
 -   Moyenne académique : 3,14/4
 
-### Université de Technologie de Varsovie
+### Université de technologie de Varsovie
 
 -   Erasmus 2 Trimestre
--   GPA : 70
--   DOMAINES : Faculté de génie électrique / Faculté d'électronique et de technologie de l'information
+-   GPA : 70
+-   Des champs:
+    -   Faculté de génie électrique
+    -   Faculté d'électronique et de technologie de l'information
 
 # 
 
@@ -59,7 +65,7 @@
             -   Tableaux -> Requêtes LinQ de base pour l'échafaudage et la migration
             -   Annotation de données et API Fluent (amélioration de la conception des tables SQL)
         -   Pages MVC Razor, bootstrap (SURATKARGO.COM)
-            -   Page : Points SEN (Page Franchises Trader Cargo),
+            -   Page : Points SEN (page Franchises Trader Cargo),
             -   Page : Ajout d'une page pour afficher les cadres.
         -   Architecture N construite sur l'architecture ONION Domain Driven Design, (SEN DEVELOPMENT)
         -   Test et création de pages pour Blazor WebAssembly pour les nouveaux programmes dans Future.
@@ -81,7 +87,7 @@
         -   Trouver des similitudes entre différents BARCODE EPL à l'aide des commandes bash.
             Pour créer une création de CODE-BARRES simplifiée et commune.
 
-            EPL (Eltron Programming Language ; HTML-SVG pour code-barres)
+            EPL (Eltron Programming Language ; HTML-SVG pour le code-barres)
 -   Résumé:
     -   Concevoir, développer et maintenir des applications Web basées sur NET.
     -   Conception et gestion de bases de données, accès aux données à l'aide d'Entity Framework.
@@ -172,34 +178,32 @@
         -   FRAPPER
         -   PowerShell
 
--   Outils et frameworks de développement logiciel :
+-   Outils et cadres de développement logiciel :
     -   Visual Studio
     -   Code de Visual Studio
     -   Studio de gestion de serveur SQL
     -   Azure Data Studio
 
 -   Techniques de test et de débogage :
-    -   Tests unitaires
-    -   Tests d'intégration
-    -   Les tests de régression
+    -   Pentesting
     -   Performance
 
-Sur mon Github.<https://github.com/fygen>À
+Sur mon Github.<https://github.com/fygen>
 
 # Les références
 
--   Posez-lui des questions sur le projet d'apprentissage automatique semi-supervisé que j'ai réalisé dans les techniques d'optimisation.[Prof. Dr. Serdar Iplikçi de l'Université de Pamukkale sur Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+-   Renseignez-vous sur le projet d'apprentissage automatique semi-supervisé que j'ai réalisé dans les techniques d'optimisation[Prof. Dr. Serdar Iplikçi de l'Université de Pamukkale sur Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 -   À propos de nos études, envoyez un courrier au chef du département.[Prof. Dr. Abdullah Tahsin Tola à l'UPA](mailto:attola@pau.edu.tr)
 
 -   [Un projet réalisé pour l'Université de Marmara](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
--   Site Web de modèle React vieux de 2 ans Créé à partir de dépendances de base :<https://fygen.github.io/>
+-   Site Web de modèles de CV React de 2 ans Créé à partir de dépendances de base :<https://fygen.github.io/>
     -   Codes sources sur :<https://github.com/fygen/theCVproject>
 
 -   Toutes les entreprises pour lesquelles j'ai travaillé ci-dessus.
 
--   Et moi, contestez mes connaissances ; à tout moment.
+-   Défiez mon; toute connaissance, à tout moment.
 
 # Certificats
 
