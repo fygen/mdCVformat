@@ -7,8 +7,14 @@
 [![AR](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/fygen/mdCVformat/blob/master/README.AR.md)
 [![zn-CN](https://img.shields.io/badge/lang-cn-black.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zh-CN.md)
 [![zn-TW](https://img.shields.io/badge/lang-tw-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zh-TW.md)
+
+
 #
 # Personal Information:
+
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
 
 * Name and Surname: Fatih YEGEN
 * Year of Birth: 1996
@@ -35,7 +41,9 @@
 ### Warsaw University Of Technology
 * Erasmus 2 Term
 * GPA: 70
-* FIELDS: Faculty of Electrical Engineering / Faculty of Electronics and Information Technology
+* Fields: 
+    * Faculty of Electrical Engineering 
+    * Faculty of Electronics and Information Technology
 
 #
 # Work Experience:
@@ -162,27 +170,24 @@
      * Azure Data Studio
 
 * Testing and Debug Techniques:
-     * Unit testing
-     * Integration testing
-     * Regression testing
+     * Pentesting
      * Performance
 
 To Github of mine. https://github.com/fygen
-To 
 
 # References
-* Ask him about semi supervised machine learning project I did in Optimisation Techniques [Pr. Dr. Serdar Iplikçi at Pamukkale University on Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+* Ask about semi supervised machine learning project I did in Optimisation Techniques [Pr. Dr. Serdar Iplikçi at Pamukkale University on Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 * About our studies mail to Head Of Dpt.[ Prof. Dr. Abdullah Tahsin Tola at PAU](mailto:attola@pau.edu.tr)
 
 * [A project made for Marmara University](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
-* 2 year old React Template Website Created from ground up dependencies: https://fygen.github.io/ 
+* 2 year old React CV Template Website Created from ground up dependencies: https://fygen.github.io/ 
     * Source codes at: https://github.com/fygen/theCVproject
 
 * Any Companies I worked for above.
 
-* And me, Challenge my any knowledge; anytime.
+* Challenge my; any knowledge, anytime.
 
 # Certificates
 
