@@ -8,6 +8,10 @@
 
 # Persönliche Angaben:
 
+<div style="position: absolute; top: 1; right: 80px;">
+    <img src="Pro.jpg" width="130" />
+</div>
+
 -   Vor- und Nachname: Fatih YEGEN
 -   Geburtsjahr: 1996
 -   Geschlecht männlich
@@ -37,7 +41,9 @@
 
 -   Erasmus 2 Semester
 -   Notendurchschnitt: 70
--   FACHBEREICHE: Fakultät für Elektrotechnik / Fakultät für Elektronik und Informationstechnik
+-   Felder:
+    -   Fakultät für Elektrotechnik
+    -   Fakultät für Elektronik und Informationstechnologie
 
 # 
 
@@ -91,7 +97,7 @@
 
 ### Alpler Ziraat Aletleri A.Ş.
 
--   Position: Automatisierungs- und Wartungsentwicklungsingenieur
+-   Position: Entwicklungsingenieur für Automatisierung und Wartung
 -   Arbeitszeit: 10 Monate
 -   Technologien: ISPsoft, WPLsoft, DOPSoft. Automatisierungsprojekte. Elektronik, Rohr- und Instrumentierungsdiagramme, elektrische Schaltpläne.
 -   Zusammenfassung: Reparaturen, Automatisierung und Schaltpläne
@@ -179,27 +185,25 @@
     -   Azure Data Studio
 
 -   Test- und Debug-Techniken:
-    -   Unit-Tests
-    -   Integrationstests
-    -   Regressionstests
+    -   Penetrationstest
     -   Leistung
 
-Zu Github von mir.<https://github.com/fygen>Zu
+Zu Github von mir.<https://github.com/fygen>
 
 # Verweise
 
--   Fragen Sie ihn nach einem halbüberwachten maschinellen Lernprojekt, das ich im Bereich Optimierungstechniken durchgeführt habe[Prof. DR. Serdar Iplikçi von der Universität Pamukkale auf Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
+-   Fragen Sie nach einem halbüberwachten maschinellen Lernprojekt, das ich im Bereich Optimierungstechniken durchgeführt habe[Prof. DR. Serdar Iplikçi von der Universität Pamukkale auf Linkedin.](https://www.linkedin.com/in/serdar-iplikci-71900928/?originalSubdomain=tr)
 
 -   Über unser Studium senden Sie eine E-Mail an den Abteilungsleiter.[Prof. DR. Abdullah Tahsin Tola bei PAU](mailto:attola@pau.edu.tr)
 
 -   [Ein Projekt für die Marmara-Universität](https://www.youtube.com/watch?v=OYWDSDwgbp8&ab_channel=AhmetYegen)
 
--   2 Jahre alte React-Vorlagen-Website, erstellt aus Grundabhängigkeiten:<https://fygen.github.io/>
+-   2 Jahre alte React-Lebenslauf-Vorlagen-Website, erstellt aus Grundabhängigkeiten:<https://fygen.github.io/>
     -   Quellcodes unter:<https://github.com/fygen/theCVproject>
 
 -   Alle oben genannten Unternehmen, für die ich gearbeitet habe.
 
--   Und ich, fordere mein Wissen heraus; jederzeit.
+-   Fordern Sie mich heraus; jedes Wissen, jederzeit.
 
 # Zertifikate
 
