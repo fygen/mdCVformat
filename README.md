@@ -65,6 +65,10 @@
              * Page: Adding page for displaying executives.
          * N Architecture built on ONION architecture Domain Driven Design,(SEN DEVELOPMENT)
          * Testing and creating pages for Blazor WebAsm for new programs in Future.
+         * N Architecture - MVC project
+             * Page: Added Cargo Points DB 
+                 * SQL Query creation (SQL injection safe)
+                 * JS libraries: sorting and downloading excel files using .NET jquery.datatables.js and xlsx.js  
 
      * JavaScript
          * React ABP(React .Net BoilerPlate)
@@ -131,9 +135,13 @@
          * Three.js
 
      * Backend Development and APIs:
-         * Python
-         * Flask
-         * Django
+         * MongoDB
+         * BASH
+         * Express.js
+
+     * ORM(Object Relational Mapping):
+         * Entity Framework
+         * Prisma
 
      * Databases:
          * Relational Databases
@@ -142,8 +150,8 @@
              * MongoDB
 
      * Frontend Dev.
-         * React, Next
-         * Redux
+         * React, RNative, Next
+         * Redux, React Query, Zustand
 
      * JavaScript Algorithms and Data Structures:
          * JavaScript
@@ -152,9 +160,11 @@
 
      * Python:
          * Python
+         * pygame, tkinter
 
     * Mobile Development:
         * React Native: Android & IOS
+        * CapacitorJS
 
      * Others:
          * Git
@@ -185,9 +195,9 @@ To Github of mine. https://github.com/fygen
 * 2 year old React CV Template Website Created from ground up dependencies: https://fygen.github.io/ 
     * Source codes at: https://github.com/fygen/theCVproject
 
-* Any Companies I worked for above.
+* Sürat Kargo Serdar Demirtaş Senior Software Developer, Sülayman İzgi Senior Software Developer.. 
 
-* Challenge my; any knowledge, anytime.
+* Any Company I worked for above.
 
 # Certificates
 
