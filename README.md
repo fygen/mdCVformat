@@ -1,4 +1,3 @@
-2#
 # Available Languages
 [![TR](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.TR.md)
 [![DE](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.DE.md)
