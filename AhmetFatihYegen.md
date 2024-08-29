@@ -1,12 +1,12 @@
 #
 # Available Languages
-[![TR](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/fygen/mdCVformat/blob/master/README.TR.md)
-[![DE](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/README.DE.md)
-[![EN](https://img.shields.io/badge/lang-en-orange.svg)](https://github.com/fygen/mdCVformat/blob/master/README.md)
-[![FR](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/fygen/mdCVformat/blob/master/README.FR.md)
-[![AR](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/fygen/mdCVformat/blob/master/README.AR.md)
-[![zn-CN](https://img.shields.io/badge/lang-cn-black.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zh-CN.md)
-[![zn-TW](https://img.shields.io/badge/lang-tw-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/README.zh-TW.md)
+[![TR](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.TR.md)
+[![DE](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.DE.md)
+[![EN](https://img.shields.io/badge/lang-en-orange.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.md)
+[![FR](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.FR.md)
+[![AR](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.AR.md)
+[![zn-CN](https://img.shields.io/badge/lang-cn-black.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.zh-CN.md)
+[![zn-TW](https://img.shields.io/badge/lang-tw-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.zh-TW.md)
 
 
 #
@@ -16,7 +16,7 @@
     <img src="Pro.jpg" width="130" />
 </div>
 
-* Name and Surname: Fatih YEGEN
+* Name and Surname: Ahmet Fatih YEGEN
 * Year of Birth: 1996
 * Gender male
 * Marital Status: Single
@@ -49,12 +49,14 @@
 # Work Experience:
 
 ### Surat Cargo
+     Software Developer Stack
      I am currently interested in this stack. 
+
      Want to continue my journey with, 
-     LLM API's (Large Language Modeling), 
+     LLM API's (LLM API's for DB control, query and so.), 
      Robotics, anything including; improving our daily lives.
 * Position: Software Development Specialist
-* Working Period: 9 Months
+* Working Period: 1 Year 1 Months
 * Technologies Used and Responsibilities:
      * .NET Core/Framework
          * Entity Framework, (SEN APP DEVELOPMENT)
@@ -68,12 +70,17 @@
          * N Architecture - MVC project
              * Page: Added Cargo Points DB 
                  * SQL Query creation (SQL injection safe)
-                 * JS libraries: sorting and downloading excel files using .NET jquery.datatables.js and xlsx.js  
+                 * JS libraries: sorting and downloading excel files using .NET jquery.datatables.js and xlsx.js 
+             * Page: Added Company Telephone Numbers
+                 * Page creation with Bootstrap
+                 * jQuery: Dynamically getting personal info or personal info for create/update Telephone Numbers 
 
      * JavaScript
          * React ABP(React .Net BoilerPlate)
              * Page: Creation and the design of HR, Promotion Hierarchy related pages.
                  * Simplifiying Front-End codes and creating backend components in Entity Framework DDD architecture.
+             * Page Renovation: Adding new components: Info page, getting cargo summaries for cargo distribution points.
+                 * Changing the backend API's for faster queries and database connection. Creating effective SQL queries.  
          * React Native
              * Adding Barcode Scanning Libraries and a page for scanning Datamatrix and old type barcodes.
          * Nextjs
@@ -94,15 +101,17 @@
 
 
 ### Alpler Ziraat Aletleri A.Ş.
+###
+     Automation Stack. 
+     I am interested to this stack if; 
+     Coding and R&D involved.
+
 * Position: Automation and Maintenance Development Engineer
 * Working Period: 10 Months
 * Technologies: ISPsoft, WPLsoft, DOPSoft. Automation Projects. Electronics, Pipe and Instrumentation diagrams, Electrical Schematics..
 * Summary: Repairs, Automation and schematics
      * A long session of personal development history. Ask for more information.
 
-###
-     Automation. 
-     I am interested to this stack if; Coding and R&D involved.
 
 ### OTHERS
 * Engineer Intern - Ugur Deep Freezers I.C. Aydin, Turkey
@@ -122,6 +131,7 @@
          * React 
          * React Native
          * Next.js
+         * jQuery
     * PowerShell
     * WSL (Ubuntu, Kali)
     * Web Development:
@@ -138,6 +148,8 @@
          * MongoDB
          * BASH
          * Express.js
+         * Node.js
+         * Puppeteer
 
      * ORM(Object Relational Mapping):
          * Entity Framework
@@ -145,13 +157,13 @@
 
      * Databases:
          * Relational Databases
-             * MS SQL, POSTGRE, MySQL, SQLite
+             * MSSQL, POSTGRE, MySQL, SQLite
          * No-SQL:
              * MongoDB
 
      * Frontend Dev.
          * React, RNative, Next
-         * Redux, React Query, Zustand
+         * Redux, React Query, Zustand, Mobx
 
      * JavaScript Algorithms and Data Structures:
          * JavaScript
@@ -160,7 +172,8 @@
 
      * Python:
          * Python
-         * pygame, tkinter
+         * Django, django-htmx, django-unicorn,
+         * Libs: pygame, tkinter, pyautogui, pynput, selenium, pyinstaller, numpy
 
     * Mobile Development:
         * React Native: Android & IOS
@@ -174,7 +187,7 @@
          * PowerShell
 
 * Software Development Tools and Frameworks:
-     * Visual Studio
+     * Visual Studio 2022
      * Visual Studio Code
      * SQL Server Management Studio
      * Azure Data Studio
@@ -195,7 +208,9 @@ To Github of mine. https://github.com/fygen
 * 2 year old React CV Template Website Created from ground up dependencies: https://fygen.github.io/ 
     * Source codes at: https://github.com/fygen/theCVproject
 
-* Sürat Kargo Serdar Demirtaş Senior Software Developer, Sülayman İzgi Senior Software Developer.. 
+* Sürat Kargo 
+    * [Serdar Demirtaş Senior Software Developer](https://www.linkedin.com/in/serdardemirtas/),
+    * [Süleyman İzgi Senior Software Developer](https://www.linkedin.com/in/suleyman-izgi-b49a4687/) ... 
 
 * Any Company I worked for above.
 

@@ -19,27 +19,34 @@ jobs:
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: zh-CN
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Chinese Traditional
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: zh-TW
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Hindi"
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: HI
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Arabic
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: AR
+          FILES: AhmetFatihYegen.md
       - name: Adding README - French
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: FR
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Turkish
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: TR
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Deutsch
         uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: DE
+          FILES: AhmetFatihYegen.md
