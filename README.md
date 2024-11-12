@@ -1,3 +1,4 @@
+#
 # Available Languages
 [![TR](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.TR.md)
 [![DE](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fygen/mdCVformat/blob/master/AhmetFatihYegen.DE.md)
@@ -73,13 +74,16 @@
              * Page: Added Company Telephone Numbers
                  * Page creation with Bootstrap
                  * jQuery: Dynamically getting personal info or personal info for create/update Telephone Numbers 
+                 * Page: Comparison of yesterdays Personels with today to get where is the SIM located.
+                 * Page: Apply Changes To Numbers: Comparison of yesterdays and Todays Personel then mass update them.
 
      * JavaScript
          * React ABP(React .Net BoilerPlate)
              * Page: Creation and the design of HR, Promotion Hierarchy related pages.
                  * Simplifiying Front-End codes and creating backend components in Entity Framework DDD architecture.
              * Page Renovation: Adding new components: Info page, getting cargo summaries for cargo distribution points.
-                 * Changing the backend API's for faster queries and database connection. Creating effective SQL queries.  
+                 * Changing the backend API's for faster queries and database connection. Creating effective SQL queries.
+             * Page Renovation: Hierarchy Delegate addition, ABP boilerplate new API and new Front-end additions.  
          * React Native
              * Adding Barcode Scanning Libraries and a page for scanning Datamatrix and old type barcodes.
          * Nextjs
@@ -126,6 +130,7 @@
          * Onion Architecture
          * Blazor WebAssembly
          * ABP Framework
+         * N Architecture
     * JavaScript
          * React 
          * React Native
@@ -138,7 +143,7 @@
          * CSS
          * JavaScript
          * React
-         * SCSS
+         * SCSS-SASS
          * ReactMarkdown
          * D3.js - Fiber
          * Three.js
@@ -161,16 +166,10 @@
              * MongoDB
 
      * Frontend Dev.
-         * React, RNative, Next
+         * Javascript, JQuery, React, RNative, Next
          * Redux, React Query, Zustand, Mobx
 
-     * JavaScript Algorithms and Data Structures:
-         * JavaScript
-         * Algorithms and Data Structures
-         * Responsive Web Design
-
      * Python:
-         * Python
          * Django, django-htmx, django-unicorn,
          * Libs: pygame, tkinter, pyautogui, pynput, selenium, pyinstaller, numpy
 
