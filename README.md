@@ -56,7 +56,7 @@
      LLM API's (LLM API's for DB control, query and so.), 
      Robotics, anything including; improving our daily lives.
 * Position: Software Development Specialist
-* Working Period: 1 Year 1 Months
+* Working Period: 1 Year 4 Months
 * Technologies Used and Responsibilities:
      * .NET Core/Framework
          * Entity Framework, (SEN APP DEVELOPMENT)
