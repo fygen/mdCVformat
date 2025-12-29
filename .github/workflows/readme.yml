@@ -1,4 +1,4 @@
-name: Translate README
+name: run Translate README
 
 on:
   push:
@@ -9,35 +9,44 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Setup Node.js
-      - uses: actions/checkout@v5
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v3
         with:
-          node-version: 24
-      - run: npm ci
-      - run: npm test
-      # ISO Language Codes: https://cloud.google.com/translate/docs/languages
-      - name: Adding README - English
-        uses: samc2/translate-readme@main
-        with:
-          LANG: en  
+          node-version: 20.x
+      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - name: Adding README - Chinese Simplified
-        uses: samc2/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: zh-CN
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Chinese Traditional
-        uses: samc2/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v2
         with:
           LANG: zh-TW
-      - name: Adding README - Hindi
-        uses: samc2/translate-readme@main
+          FILES: AhmetFatihYegen.md
+      - name: Adding README - Hindi"
+        uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: hi
+          LANG: HI
+          FILES: AhmetFatihYegen.md
       - name: Adding README - Arabic
-        uses: samc2/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: ar
+          LANG: AR
+          FILES: AhmetFatihYegen.md
       - name: Adding README - French
-        uses: samc2/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v2
         with:
-          LANG: fr
+          LANG: FR
+          FILES: AhmetFatihYegen.md
+      - name: Adding README - Turkish
+        uses: ikhsan3adi/markdown-translator@v2
+        with:
+          LANG: TR
+          FILES: AhmetFatihYegen.md
+      - name: Adding README - Deutsch
+        uses: ikhsan3adi/markdown-translator@v2
+        with:
+          LANG: DE
+          FILES: AhmetFatihYegen.md
